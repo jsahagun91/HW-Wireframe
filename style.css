@@ -1,0 +1,64 @@
+.wireframe {
+    background-color: #777777;
+    color: #777;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin: 0 1.5% 24px 1.5%;
+}
+
+.header {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.nav {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.section {
+    background: #ebebeb;
+    float: left;
+    margin-bottom: 60px;
+    padding: 60px;
+    width: 63%;
+}
+
+.article {
+    background: #777;
+    color:white;
+    margin-bottom: 40px;
+    padding: 40px
+}
+
+.h1 {
+    background: #ebebeb;
+    color: #777777; 
+}
+
+.p {
+    background: #ebebeb;
+    color: #777777; 
+}
+
+
+.aside {
+    background: #ebebeb;
+    float: right;
+    margin-bottom: 60px;
+    padding: 60px;
+    width: 30%;
+}
+
+
+.footer {
+    clear: both;
+    background: #ebebeb;
+    overflow: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+}
